@@ -1,0 +1,9 @@
+{
+    "databaseLocation": "./db",
+    "autoincrement": {
+        "ksiazki": 6,
+        "klienci": 6,
+        "autorzy": 5,
+        "zamowienia": 4
+    }
+}

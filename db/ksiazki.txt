@@ -1,0 +1,6 @@
+1,Stupur et Tremblements,fikcja,1999,174,1
+2,Le Maison de Claudine,fikcja,1922,200,2
+3,Le Petit Prince,bajka nowela fantastyka,1943,73,3
+4,L Etranger,powiesc powiesc,1942,159,4
+5,La Peste ,powiesc powiesc_paraboliczna,1947,336,4
+6,Dziady,dramat,1820,450,5
